@@ -10,6 +10,15 @@
 
 This projects scope is to help the CIO complete data policy as per the Executive Order. 
 
+The Data Policy is intended to enable City departments to provide the ability to share of Protected Data upon the grant of consent when legal or other rules require it.  Protected Data Policy includes a section to be titled "Identity and Access Management" intended to departments needed  guidelines to responsibly allow access to protected data.  
+
+he City of Boston can conduct a proof of concept for business engagement in City Regulation and Policy.
+
+Set up an easy way for Businesses to use a Google Account, MIT Account (if they have one) or we any set up an OpenID Connect account system to support login and auto-form fill by permission. For the pilot if you want to try issuing them.
+
+A special project demo could include: Pilot a Boston version of the KCMO "Dead Letter Office" to Identity Outdated or Useless Business Regulations in City Code
+
+
 "Open Data Policy 
 
 a) The Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data; 
@@ -21,4 +30,9 @@ Protected Data Policy
 a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
 
 b) The policy shall provide a method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only disclosed in accordance with the Policy."
+
+
+# Business Case and Value Proposition:
+
+
 
