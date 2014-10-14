@@ -12,9 +12,17 @@ This projects scope is to help the CIO complete data policy as per the Executive
 
 The Data Policy is intended to enable City departments to provide the ability to share of Protected Data upon the grant of consent when legal or other rules require it.  Protected Data Policy includes a section to be titled "Identity and Access Management" intended to departments needed  guidelines to responsibly allow access to protected data.  
 
-he City of Boston can conduct a proof of concept for business engagement in City Regulation and Policy.
+The City of Boston can best provide guidance on how to enable access to protected data by supporting one or more departments in the conduct of a proof of concept or pilot demonstrating such access in a scalable, secure, efficient and effective manner.  
 
-Set up an easy way for Businesses to use a Google Account, MIT Account (if they have one) or we any set up an OpenID Connect account system to support login and auto-form fill by permission. For the pilot if you want to try issuing them.
+The Boston Business Hub presents a very good business case for such a proof of concept.  
+
+* Businesses, especially small businesses, costs can be reduced by enabling single signin in a simple standards compliant manner using OpenID Connect;
+
+* Entreprenuership can be promoted by providing neutral reusable online identity and protected data consent management services.  This is true for all city interactions but even more value is created when the solutions are used to catalyze business to business and business to consumer transactions.  
+
+* Business has a need to reduce friction and complexity in their compulsory interactions with government.  business engagement in City Regulation and Policy.
+
+Proof of Concept: Set up an easy way for Businesses to use a Google Account, MIT Account (if they have one) or we any set up an OpenID Connect account system to support login and auto-form fill by permission. For the pilot if you want to try issuing them.
 
 A special project demo could include: Pilot a Boston version of the KCMO "Dead Letter Office" to Identity Outdated or Useless Business Regulations in City Code
 
