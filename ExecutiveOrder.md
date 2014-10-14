@@ -3,8 +3,10 @@ An Order Relative to Open Data and Protected Data Sharing
 Whereas, it is the policy of the City of Boston to practice Open Government, favoring participation, transparency, collaboration and engagement with the people of the City and its stakeholders; and
 Whereas, information technologies, including web-based and other Internet applications and services, are an essential means for Open Government, and good government generally; and
 Whereas, the City of Boston should continue, expand and deepen the City’s innovative use of information technology toward the end of Open Government, including development and use of mobile computing and applications, provision of online data, services and transactions; and
+
 Whereas, the City of Boston also has an obligation to protect some data based upon privacy, confidentiality and other requirements and must ensure that protected data not be released in violation of applicable constraints; and
 Whereas, clarification and definition of open data, privacy, security requirements, interoperability and interaction flows is necessary for the City’s Open Government agenda;
+
 NOW THEREFORE, pursuant to the authority vested in me as Chief Executive Officer of the City of Boston by St. 1948, c. 452 Section 11, as appearing in St. 1951, c. 376, Section 1, and every other power hereto enabling, I hereby order and direct as follows:
  
 1. The City of Boston recognizes Open Government as a key means for enabling public participation, transparency, collaboration and effective government, including by ensuring the availability and use of Open Data, appropriate security and sharing of Protected Data, effective use of Identity and Access Management and engagement of stakeholders and experts toward the achievement of Open Government.
