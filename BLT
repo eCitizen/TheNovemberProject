@@ -1,0 +1,20 @@
+# 1. Legal 
+* LEI
+*IDESG-NSTIC
+* Systems Architecture/Systems Federation
+-IAUTH/Agreement/Contracts/Rules 
+
+# 2. Technical 
+* Sales force relpying party integration with MIT-Google Identity Providers (IDP)
+* Extend identity attribute set beyond standard scopes through MIT protected resources
+
+# 3. Business 
+* Identify group of businesses to be account holders (proof of concept)
+* Use additional buesiness case of Dead Letter office via ID Hub/Idea Engine Innovation 
+- Integration with permit API
+- Integration with City Record OIDC
+- Inegration with new urban mechanics apps
+* Type E market: Business case
+- Small business providers (lawyers)
+- Referrals to lawyers and other professions using the "package" model
+* Law Gives as an example of private integration 
