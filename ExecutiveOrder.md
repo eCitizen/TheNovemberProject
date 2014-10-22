@@ -34,9 +34,11 @@ a) The Open Data Policy shall include standards for the format and publishing of
 
 ## Section 3
 
-3. The City of Boston CIO, in consultation with City departments, is authorized and directed to issue a City of Boston Protected Data Policy applicable to non-public data, such as health data, educational records and other protected data;  
+3. The City of Boston CIO, in consultation with City departments, is authorized and directed to issue a City of Boston Protected Data Policy applicable to non-public data, such as health data, educational records and other protected data; 
+
 ### Section 3a
- a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
+
+a) The policy shall provide guidance on the management of Protected Data, including guidance on security and other controls to safeguard Protected Data, including appropriate Identity and Access Management and good practice guidelines for compliance with legal or other rules requiring the sharing of Protected Data with authorized parties upon the grant of consent, by operation of law or when otherwise so required;
 
 ### Section 3b
 
