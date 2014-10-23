@@ -1,3 +1,9 @@
+I.     Introduction
+II.   Scope
+III.    Community Engagement
+IV. Data and Policy Governance
+V.     Data Classification and Protection
+
 City of Boston
 Open Data Policy
  
