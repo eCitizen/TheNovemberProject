@@ -1,4 +1,4 @@
-An Order Relative to Open Data and Protected Data Sharing
+An Order Relative to Open Data and Protected Data Sharing](https://github.com/eCitizen/Connect/blob/master/DataPolicy-ExecutiveOrder/ExecOrder.md)
  
 Whereas, it is the policy of the City of Boston to practice Open Government, favoring participation, transparency, collaboration and engagement with the people of the City and its stakeholders; and
 
