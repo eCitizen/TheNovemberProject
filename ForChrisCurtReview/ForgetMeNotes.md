@@ -5,6 +5,7 @@ Don't Forget to Include These Items:
 * Draft roll-out letter to departments/agencies 
 
 ## GitHub Policy Revival!
+
 **Demo example embeds of GitHub Policy in "Policy Blog!"**
 * http://openinnovationframework.org/sample-page/ 
 * http://openinnovationframework.org/draft-open-and-controlled-data-policy/
@@ -13,6 +14,9 @@ Don't Forget to Include These Items:
 **Basic Idea of "GitHub" Intermediated Policy (and Dynamic License Approach):**
 
 *  See: **[Draft Proposd New	Urban	Mechanics	OpenGovLicense](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-BackgroundMemoDraft-CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3.pdf?raw=true)**
+* https://github.com/CityOfBoston/OpenInnovationPolicy/wiki/License-Policy-_-Background
+* https://github.com/CityOfBoston/OpenInnovationPolicy/wiki/License-Policy-_-How-to-Use-for-Python 
+
 
 and 
 
