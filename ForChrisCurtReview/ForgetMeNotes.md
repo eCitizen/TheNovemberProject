@@ -16,9 +16,9 @@ Don't Forget to Include These Items:
 
 and 
 
-**Relevant Recommendations Regarding Community Building/Engagemnt:**
+**Relevant Recommendations Regarding Community Building/Engagemnt:
 
-* Excerpt from  ["Issues	and	Options	Briefing: Open	Source,	Data	&	Identity"](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-CIVICS.com-OSS-Briefing-V.0.3.pdf?raw=true): 
+* Excerpt from  ["Issues	and	Options	Briefing: Open	Source,	Data	&	Identity"](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-CIVICS.com-OSS-Briefing-V.0.3.pdf?raw=true):**
 
 Recommendation 4: Provide a Forum for Collaboration
 
