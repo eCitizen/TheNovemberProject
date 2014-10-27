@@ -12,7 +12,7 @@ Don't Forget to Include These Items:
 
 **Basic Idea of "GitHub" Intermediated Policy (and Dynamic License Approach):**
 
-*  **See: [Draft Proposd New	Urban	Mechanics	OpenGovLicense](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-BackgroundMemoDraft-CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3.pdf?raw=true)**
+*  See: **[Draft Proposd New	Urban	Mechanics	OpenGovLicense](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-BackgroundMemoDraft-CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3.pdf?raw=true)**
 
 and 
 
