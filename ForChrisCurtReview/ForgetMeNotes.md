@@ -4,6 +4,18 @@ Don't Forget to Include These Items:
 * Draft cover letter to CIO (from Curt and Chris/Nigel/Jose?)
 * Draft roll-out letter to departments/agencies 
 
+## GitHub Policy Revival!
+** Demo example embeds of GitHub Policy in "Policy Blog!"**
+* http://openinnovationframework.org/sample-page/ 
+* http://openinnovationframework.org/draft-open-and-controlled-data-policy/
+* http://openinnovationframework.org/oss-standard-shareback-license/
+
+** Basic Idea of "GitHub" Intermediated Policy (and Dynamic License Approach):**
+*  Backup of CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3
+and 
+* Backup of CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3
+
+
 ## Potential Sec of State Resources
 
 * Sec of State Records Team Assisance Re Classification and Records Management... 
@@ -36,3 +48,6 @@ Training Sessions and Presentations. Analysts will plan an agenda tailored to th
 * Cross-Walk to April Draft, 
 * Cross-Walk to June Draft, 
 * Cross-Walk to July Draft and Chris Outline.
+
+## Nice overview of needs for a way to develop a common approach to API's among cities and other stakeholders
+* http://openinnovationframework.org/posts/its-about-the-interface/
