@@ -1,5 +1,3 @@
-Data Policy
-
 City of Boston Data Policy and Guidance
 
 # Section 1. Governance and Management of Municipal Data
