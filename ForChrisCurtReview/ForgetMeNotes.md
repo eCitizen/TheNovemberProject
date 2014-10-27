@@ -5,18 +5,18 @@ Don't Forget to Include These Items:
 * Draft roll-out letter to departments/agencies 
 
 ## GitHub Policy Revival!
-** Demo example embeds of GitHub Policy in "Policy Blog!"**
+**Demo example embeds of GitHub Policy in "Policy Blog!"**
 * http://openinnovationframework.org/sample-page/ 
 * http://openinnovationframework.org/draft-open-and-controlled-data-policy/
 * http://openinnovationframework.org/oss-standard-shareback-license/
 
-** Basic Idea of "GitHub" Intermediated Policy (and Dynamic License Approach):**
+**Basic Idea of "GitHub" Intermediated Policy (and Dynamic License Approach):**
 
-*  **See: [Draft Proposd New	Urban	Mechanics	OpenGovLicense](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-BackgroundMemoDraft-CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3.pdf?raw=true) **
+*  **See: [Draft Proposd New	Urban	Mechanics	OpenGovLicense](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-BackgroundMemoDraft-CIVICS.com-NewUrbanMechanics-OpenGovLicense-0.3.pdf?raw=true)**
 
 and 
 
-** Relevant Recommendations Regarding Community Building/Engagemnt: **
+**Relevant Recommendations Regarding Community Building/Engagemnt:**
 
 * Excerpt from  ["Issues	and	Options	Briefing: Open	Source,	Data	&	Identity"](https://github.com/CityOfBoston/OpenInnovationPolicy/blob/master/ReferenceMaterials/Oct-2013-CIVICS.com-OSS-Briefing-V.0.3.pdf?raw=true): 
 
