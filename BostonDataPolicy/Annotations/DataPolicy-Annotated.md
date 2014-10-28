@@ -48,7 +48,7 @@ Ch 66 Assessment
 [Departments must secure and manage protected data in accordance with applicable rules] 
 
 [Do not change, diminish, or alter rights or obligations]
-{Section 4}
+{[Section 4] (ExecutiveOrder-Annotated.md#section-4)}
 
 ### Section 2.2.2. CIO Approves Technology 
 
