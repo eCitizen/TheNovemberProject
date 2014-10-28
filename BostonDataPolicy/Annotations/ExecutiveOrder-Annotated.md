@@ -41,11 +41,11 @@ The City of Boston CIO, in consultation with [[1.2] (DataPolicy-Annotated.md#sec
 
 ### Section 3a
 
-The policy shall provide [[3.2] (DataPolicy.md#section-32-application)] guidance on the management of [[5.2] (DataPolicy.md#section-52-application)] Protected Data, including guidance on [[3.2.1] (DataPolicy-Annotated.md#section-321-format)] security and other controls to safeguard Protected Data, including appropriate [[3.2.2] (DataPolicy-Annotated.md#section-322-format)] Identity and Access Management and [[3.2.3] (DataPolicy-Annotated.md#section-323-format)] good practice guidelines for [[3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility)] compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [[3.2.3.3] (DataPolicy-Annotated.md#section-323-accessibility)] upon the grant of consent, by [[3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility)] operation of law or when otherwise so required;
+The policy shall provide [[3.2] (DataPolicy-Annotated.md#section-32-standards)] guidance on the management of [[5.2] (DataPolicy-Annotated.md#section-52-protected-data)] Protected Data, including guidance on [[3.2.1] (DataPolicy-Annotated.md#section-321-format)] security and other controls to safeguard Protected Data, including appropriate [[3.2.2] (DataPolicy-Annotated.md#section-322-publishing)] Identity and Access Management and [[3.2.3] (DataPolicy-Annotated.md#section-323-accessibility)] good practice guidelines for [[3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility)] compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [[3.2.3.3] (DataPolicy-Annotated.md#section-323-accessibility)] upon the grant of consent, by [[3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility)] operation of law or when otherwise so required;
 
 ### Section 3b
 
-The policy shall provide a [[4.1.3] (DataPolicy-Annotated.md#section-41-scope)] method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only [[4.1.3] (DataPolicy-Annotated.md#section-41-scope)] [[5.4] (DataPolicy-Annotated.md#section-54-scope)] disclosed in accordance with the Policy.
+The policy shall provide a [[4.1.3] (DataPolicy-Annotated.md#section-41-scope)] method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only [[4.1.3] (DataPolicy-Annotated.md#section-41-scope)] [[5.4] (DataPolicy-Annotated.md#section-54-public-records)] disclosed in accordance with the Policy.
 
 ## Section 4
 
