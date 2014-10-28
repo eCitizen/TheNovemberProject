@@ -130,7 +130,7 @@ Open Data Publishing Priority
 
 ## Section 5.3 Disclosure
 
-{[Section 3b] (ExecutiveOrder-Annotated.md#section-3b) [Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}}
+{[Section 3b] (ExecutiveOrder-Annotated.md#section-3b) [Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
 
 ## Section 5.4 Public Records 
 
