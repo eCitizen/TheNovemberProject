@@ -29,7 +29,7 @@ The City of Boston Chief Information Officer (“CIO”), in consultation with [
 
 ### Section 2a
 
-The [[5.1 Current Policy Reference](DraftDataPolicy/DataPolicy.md#section-51-open-data)][[5.1 Version 1](DataPolicy.md#section-52-protected-data)]  Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
+The [5.1] (DataPolicy-Annotated.md#section-51-open-data)  Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
 
 ### Section 2b
 
