@@ -25,7 +25,7 @@ The City of Boston recognizes Open Government as a key means for enabling public
 
 ## Section 2
 
-The City of Boston Chief Information Officer (“CIO”), in consultation with [1.2](https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-12-application) City departments, is authorized and directed to issue a City of Boston Open Data Policy.
+The City of Boston Chief Information Officer (“CIO”), in consultation with [1.2] (DataPolicy.md#section-12-application) City departments, is authorized and directed to issue a City of Boston Open Data Policy.
 
 ### Section 2a
 
@@ -33,15 +33,15 @@ The [5.1] (DataPolicy-Annotated.md#section-51-open-data)  Open Data Policy shall
 
 ### Section 2b
 
-The [5](DataPolicy.md#section-5-definitions), [5.1](DataPolicy.md#section-51-open-data) Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2] ( DataPolicy-Annotated.md#section-42-guidance-on-management-of-protected-data) [5.3] (DataPolicy-Annotated.md#section-53-disclosure) public or [4.1] (DataPolicy-Annotated.md#section-41-guidance-on-management-of-protected-data) [5.2]  (DataPolicy-Annotated.md#section-52-disclosure) protected and a method to report such classification to the CIO.  All departments shall [5.1](DataPolicy.md#section-51-open-data) publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] determined to be appropriate for public [5.4] disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
+The [5](DataPolicy.md#section-5-definitions), [5.1](DataPolicy.md#section-51-open-data) Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2] ( DataPolicy-Annotated.md#section-42-guidance-on-management-of-protected-data) [5.3] (DataPolicy-Annotated.md#section-53-disclosure) public or [4.1] (DataPolicy-Annotated.md#section-41-guidance-on-management-of-protected-data) [5.2]  (DataPolicy-Annotated.md#section-52-disclosure) protected and a method to report such classification to the CIO.  All departments shall [5.1](DataPolicy.md#section-51-open-data) publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] determined to be appropriate for public [5.4] (DataPolicy-Annotated.md#section-54-guidance-on-management-of-protected-data) disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
 
 ## Section 3
 
-The City of Boston CIO, in consultation with [1.2] City departments, is [3] authorized and directed to issue a City of Boston  Protected Data Policy [3.1] applicable to non-public data, [3.1] such as health data, educational records and other protected data; 
+The City of Boston CIO, in consultation with [1.2] (DataPolicy.md#section-12-application) City departments, is [3] (DataPolicy-Annotated.md#section-3-city-of-boston-open-data-policy) authorized and directed to issue a City of Boston  Protected Data Policy [3.1] DataPolicy.md#section-31-application) applicable to non-public data, [3.1] (DataPolicy.md#section-31-application) such as health data, educational records and other protected data; 
 
 ### Section 3a
 
-The policy shall provide [3.2] guidance on the management of [5.2] Protected Data, including guidance on [3.2.1] security and other controls to safeguard Protected Data, including appropriate [3.2.2] Identity and Access Management and [3.2.3] good practice guidelines for [3.2.3.1] compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [3.2.3.3] upon the grant of consent, by [3.2.3.1] operation of law or when otherwise so required;
+The policy shall provide [3.2] (DataPolicy.md#section-32-application) guidance on the management of [5.2] (DataPolicy.md#section-52-application) Protected Data, including guidance on [3.2.1] (DataPolicy-Annotated.md#section-321-format) security and other controls to safeguard Protected Data, including appropriate [3.2.2] (DataPolicy-Annotated.md#section-322-format) Identity and Access Management and [3.2.3] (DataPolicy-Annotated.md#section-323-format)  good practice guidelines for [3.2.3.1] compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [3.2.3.3] upon the grant of consent, by [3.2.3.1] operation of law or when otherwise so required;
 
 ### Section 3b
 
