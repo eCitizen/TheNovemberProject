@@ -1,24 +1,29 @@
+** DRAFT **
+
 City of Boston Data Policy and Guidance
 
 # Section 1. Governance and Management of Municipal Data
 
 ## Section 1.1. Scope
 
-[Authorized by executive order] 
+Authorized by executive order:
 
-[Basic scheme: 1. Classification as Public or Protected. 2.CIO determines open data and publishing priority of public records 3. Legal Counsel approves] 
+Policy covers the following: 
+1. Classification as Public Record or Protected Data. 
+2. CIO determines open data publishing priority as open data 
+3. Legal Counsel approves protected data authorized sharing 
 
 ## Section 1.2 Application
 
-Consult with departments  
+The formation and evolution of data policy by the CIO for the City of Boston is an ongoing process.  The CIO continuously explores policy and technical optuons for implementations
+
+The CIO consults with departments on practices and technologies related to open data publishing and protected data authorized sharing.  
+
 {Section 2 & 3}
 
-Consult with: Experts, thought leaders, key stakeholders, implementations 
-{Section 2 & 3}
+The CIO consults with experts, thought leaders and key stakeholders on issues, options and ideas for open data publishing and protected data authorized sharing implementation.  
 
-Explore options
-
-Implementations
+{Section 2 & 3}{Web Form and Periodic Forum}
 
 ## Section 1.3 Issue and Maintain
 
@@ -130,8 +135,15 @@ Open Data Publishing Priority
 {MGL 66, API}	
 
 
+==========================
+# Legal Notice** 
 
+**This File Constitutes an Ongoing Deliberative Policy Development Process**
 
+Massachusetts Public Records Law exemption (d) (also known as the "Deliberative Process Exemption") provides a limited executive privilege for policy development. It applies to: inter-agency or intra-agency memoranda or letters relating to policy positions being developed by the agency; but this subclause shall not apply to reasonably completed factual studies or reports on which the development of such policy positions has been or may be based.  
 
+The exemption is intended to avoid release of materials that could taint the deliberative process if prematurely disclosed. Its application is limited to recommendations on legal and policy matters found within an ongoing deliberative process.65 Factual reports which are reasonably complete and inferences which can be drawn from factual investigations, even if labeled as opinions or conclusions, are not exempt as deliberative or policy making materials. Only portions of records that possess a deliberative or policymaking character and relate to an ongoing deliberative process are exempt from mandatory disclosure.  (See: http://www.sec.state.ma.us/pre/prepdf/guide.pdf)
+
+**These draft files are part of an ongoing deliberative process by the City of Boston Chief Information Officer** to develop legal and policy positions called for by the City of Boston Executive Order issued by Mayor Martin J. Walsh on April 07, 2014 Relative to Open Data and Protected Data Sharing (See: http://www.cityofboston.gov/news/default.aspx?id=6589).  
 
 
