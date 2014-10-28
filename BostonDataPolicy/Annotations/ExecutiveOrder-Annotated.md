@@ -33,7 +33,7 @@ The [5.1] (DataPolicy-Annotated.md#section-51-open-data)  Open Data Policy shall
 
 ### Section 2b
 
-The [5](DataPolicy.md#section-5-definitions), [5.1](DataPolicy.md#section-51-open-data) Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2] ( DataPolicy-Annotated.md#section-42-guidance-on-management-of-protected-data) [5.3] (DataPolicy-Annotated.md#section-53-disclosure) public or [4.1] (DataPolicy-Annotated.md#section-41-guidance-on-management-of-protected-data) [5.2]  (DataPolicy-Annotated.md#section-52-disclosure) protected and a method to report such classification to the CIO.  All departments shall [5.1](DataPolicy.md#section-51-open-data) publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] determined to be appropriate for public [5.4] (DataPolicy-Annotated.md#section-54-guidance-on-management-of-protected-data) disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
+The [5](DataPolicy.md#section-5-definitions), [5.1](DataPolicy.md#section-51-open-data) Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2] ( DataPolicy-Annotated.md#section-42-guidance-on-management-of-protected-data) [5.3] (DataPolicy-Annotated.md#section-53-disclosure) public or [4.1] (DataPolicy-Annotated.md#section-41-guidance-on-management-of-protected-data) [5.2]  (DataPolicy-Annotated.md#section-52-disclosure) protected and a method to report such classification to the CIO.  All departments shall [5.1](DataPolicy.md#section-51-open-data) publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] (DataPolicy-Annotated.md#section-421-format) determined to be appropriate for public [5.4] (DataPolicy-Annotated.md#section-54-guidance-on-management-of-protected-data) disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
 
 ## Section 3
 
@@ -41,11 +41,11 @@ The City of Boston CIO, in consultation with [1.2] (DataPolicy.md#section-12-app
 
 ### Section 3a
 
-The policy shall provide [3.2] (DataPolicy.md#section-32-application) guidance on the management of [5.2] (DataPolicy.md#section-52-application) Protected Data, including guidance on [3.2.1] (DataPolicy-Annotated.md#section-321-format) security and other controls to safeguard Protected Data, including appropriate [3.2.2] (DataPolicy-Annotated.md#section-322-format) Identity and Access Management and [3.2.3] (DataPolicy-Annotated.md#section-323-format)  good practice guidelines for [3.2.3.1] compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [3.2.3.3] upon the grant of consent, by [3.2.3.1] operation of law or when otherwise so required;
+The policy shall provide [3.2] (DataPolicy.md#section-32-application) guidance on the management of [5.2] (DataPolicy.md#section-52-application) Protected Data, including guidance on [3.2.1] (DataPolicy-Annotated.md#section-321-format) security and other controls to safeguard Protected Data, including appropriate [3.2.2] (DataPolicy-Annotated.md#section-322-format) Identity and Access Management and [3.2.3] (DataPolicy-Annotated.md#section-323-format) good practice guidelines for [3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility) compliance with legal or other rules requiring the sharing of Protected Data with authorized parties [3.2.3.3] (DataPolicy-Annotated.md#section-323-accessibility) upon the grant of consent, by [3.2.3.1] (DataPolicy-Annotated.md#section-323-accessibility) operation of law or when otherwise so required;
 
 ### Section 3b
 
-The policy shall provide a [4.1.3] method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only [4.1.3, 5.4] disclosed in accordance with the Policy.
+The policy shall provide a [4.1.3] (DataPolicy-Annotated.md#section-41-scope) method to ensure approval by the Corporation Counsel of the City of Boston to confirm Protected Data is only [4.1.3 (DataPolicy-Annotated.md#section-41-scope) [5.4] (DataPolicy-Annotated.md#section-54-scope) disclosed in accordance with the Policy.
 
 ## Section 4
 
@@ -57,4 +57,4 @@ This Executive Order is not intended to, and does not, create any right or benef
 
 ##Section 6 
 
-[1.1] The City of Boston CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.
+[1.1] (DataPolicy-Annotated.md#section-11-scope) The City of Boston CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.
