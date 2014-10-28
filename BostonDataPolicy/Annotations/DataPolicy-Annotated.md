@@ -64,10 +64,10 @@ Ch 66 Assessment
 Open Data Publishing Priority
 	[Note: department input is important factor for establishing publishing priority]
 	[CIO determines whether data is “appropriate for publish disclosure”]
-	{[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
+	{[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
 	[Note: CIO may refer to Corporate Counsel Legal Issues for Publishing] 
 [Apply public records and open data publishing guidance] 
-{[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
+{[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
 
 ### Section 2.3.2 Apply Open Data Standards Guidance
 
@@ -75,7 +75,7 @@ Open Data Publishing Priority
 
 ## Section 3.1 Scope
 
-{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a) & {[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
+{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a) & {[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
 [Applies to data that have been classified as public record ]
 
 ## Section 3.2 Standards
