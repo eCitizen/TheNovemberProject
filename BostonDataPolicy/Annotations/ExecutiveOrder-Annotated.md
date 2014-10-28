@@ -25,7 +25,7 @@ The City of Boston recognizes Open Government as a key means for enabling public
 
 ## Section 2
 
-The City of Boston Chief Information Officer (“CIO”), in consultation with [1.2] (DataPolicy.md#section-12-application) City departments, is authorized and directed to issue a City of Boston Open Data Policy.
+The City of Boston Chief Information Officer (“CIO”), in consultation with [[1.2](DataPolicy-Annotated.md#section-12-application)] City departments, is authorized and directed to issue a City of Boston Open Data Policy.
 
 ### Section 2a
 
