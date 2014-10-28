@@ -57,4 +57,4 @@ This Executive Order is not intended to, and does not, create any right or benef
 
 ##Section 6 
 
-[[1.1] (DataPolicy-Annotated.md#section-11-scope)] The City of Boston CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.
+[[Section 1.1] (DataPolicy-Annotated.md#section-11-scope)] The City of Boston CIO is authorized and directed to regularly consult with experts, thought leaders and key stakeholders for the purpose of exploring options for the implementation of policies and practices arising under or related to this Executive Order.
