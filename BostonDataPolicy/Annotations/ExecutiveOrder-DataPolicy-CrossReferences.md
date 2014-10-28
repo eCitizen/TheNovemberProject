@@ -25,15 +25,15 @@ The City of Boston recognizes Open Government as a key means for enabling public
 
 ## Section 2
 
-The City of Boston Chief Information Officer (“CIO”), in consultation with [1.2] City departments, is authorized and directed to issue a City of Boston Open Data Policy.
+The City of Boston Chief Information Officer (“CIO”), in consultation with [1.2](https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-12-application) City departments, is authorized and directed to issue a City of Boston Open Data Policy.
 
 ### Section 2a
 
-The [5.1}(https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-51-open-data)  Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
+The [5.1](https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-51-open-data)  Open Data Policy shall include standards for the format and publishing of such data and guidance on accessibility, re-use and minimum documentation for such data;  
 
 ### Section 2b
 
-The [5, 5.1] Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2,5.3] public or [4.1, 5.2] protected and a method to report such classification to the CIO.  All departments shall [5.1] publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] determined to be appropriate for public [5.4] disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
+The [5](https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-5-definitions) [5.1](https://github.com/eCitizen/TheNovemberProject/blob/master/BostonDataPolicy/DataPolicy.md#section-51-open-data)Open Data Policy shall include guidance for departments on the classification of their data sets as [4.2,5.3] public or [4.1, 5.2] protected and a method to report such classification to the CIO.  All departments shall [5.1] publish their public record data sets on the City of Boston open data portal to the extent such data sets are [4.2.1] determined to be appropriate for public [5.4] disclosure, and/or if appropriate, may publish their public record data set through other methods, in accordance with API, format, accessibility and other guidance of the Open Data Policy.
 
 ## Section 3
 
