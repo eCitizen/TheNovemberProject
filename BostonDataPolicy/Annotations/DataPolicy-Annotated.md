@@ -21,15 +21,15 @@ The formation and evolution of data policy by the CIO for the City of Boston is 
 
 The CIO consults with departments on practices and technologies related to open data publishing and protected data authorized sharing.  
 
-{Section [2](ExecutiveOrder-Annotated.md#section-2) & 3}
+{Section [2](ExecutiveOrder-Annotated.md#section-2) Section [3] (ExecutiveOrder-Annotated.md#section-3)}
 
 The CIO consults with experts, thought leaders and key stakeholders on issues, options and ideas for open data publishing and protected data authorized sharing implementation.  
 
-{Section 2 & 3}{Web Form and Periodic Forum}
+{Section [2](ExecutiveOrder-Annotated.md#section-2) Section [3] (ExecutiveOrder-Annotated.md#section-3)} {Web Form and Periodic Forum}
 
 ## Section 1.3 Issue and Maintain
 
-{Sections 2 & 3)
+{Section [2](ExecutiveOrder-Annotated.md#section-2) Section [3] (ExecutiveOrder-Annotated.md#section-3)}
 
 # Section 2. Workflow and Approval Chains
 
@@ -55,7 +55,7 @@ Ch 66 Assessment
 ### Section 2.2.3 Approval by Corporation Council
 
 [ Corporation Council to “confirm any quote disclosure” accords with policy and law]
-{Section 3b} 	
+{[Section 3b] (ExecutiveOrder-Annotated.md#section-3b)} 	
 
 ## Section 2.3 Classification as Open Data 
 
@@ -64,10 +64,10 @@ Ch 66 Assessment
 Open Data Publishing Priority
 	[Note: department input is important factor for establishing publishing priority]
 	[CIO determines whether data is “appropriate for publish disclosure”]
-	{Section 2b}
+	{[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
 	[Note: CIO may refer to Corporate Counsel Legal Issues for Publishing] 
 [Apply public records and open data publishing guidance] 
-{Section 2b}
+{[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
 
 ### Section 2.3.2 Apply Open Data Standards Guidance
 
@@ -75,7 +75,7 @@ Open Data Publishing Priority
 
 ## Section 3.1 Scope
 
-{Section 2a & 2b}
+{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a) & {[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}
 [Applies to data that have been classified as public record ]
 
 ## Section 3.2 Standards
@@ -91,12 +91,12 @@ Open Data Publishing Priority
 
 ### Section 3.2.3 Accessibility 
 
-{Section 2a}
+{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a)}
 [508 compliance, UELMA] 
 
 ### Section 3.2.4 Reusability 
 
-{Section 3a}
+{[Section 3a] (Annotations/ExecutiveOrder-Annotated.md#section-3a)}
 
 ### Section 3.2.5 Documentation
 
@@ -105,7 +105,7 @@ Open Data Publishing Priority
 ## Section 4.1 Scope
 
 [Applies to non-public records] 
-{Section 3}
+{[Section 3] (Annotations/ExecutiveOrder-Annotated.md#section-3)}
 
 ## Section 4.2 Guidance on management of protected data
 
@@ -118,7 +118,7 @@ Open Data Publishing Priority
 [Rules requiring sharing protected data]
 [Rules identifying parties authorized to access protected data] 
 [Grant of consent to share protected data]
-{Section 3a} 
+{[Section 3a] (Annotations/ExecutiveOrder-Annotated.md#section-3a)} 
 
 # Section 5 Definitions
 
@@ -130,7 +130,7 @@ Open Data Publishing Priority
 
 ## Section 5.3 Disclosure
 
-{3b, 2b}
+{[Section 3b] (Annotations/ExecutiveOrder-Annotated.md#section-3b)} , {[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}}
 
 ## Section 5.4 Public Records 
 
