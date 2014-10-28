@@ -21,7 +21,7 @@ The formation and evolution of data policy by the CIO for the City of Boston is 
 
 The CIO consults with departments on practices and technologies related to open data publishing and protected data authorized sharing.  
 
-{Section 2 & 3}
+{Section [2](ExecutiveOrder-Annotated.md#section-2) & 3}
 
 The CIO consults with experts, thought leaders and key stakeholders on issues, options and ideas for open data publishing and protected data authorized sharing implementation.  
 
