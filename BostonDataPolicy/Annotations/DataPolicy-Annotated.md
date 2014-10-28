@@ -75,7 +75,7 @@ Open Data Publishing Priority
 
 ## Section 3.1 Scope
 
-{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a) & {[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
+{[Section 2a] (ExecutiveOrder-Annotated.md#section-2a) & {[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}
 [Applies to data that have been classified as public record ]
 
 ## Section 3.2 Standards
@@ -91,12 +91,12 @@ Open Data Publishing Priority
 
 ### Section 3.2.3 Accessibility 
 
-{[Section 2a] (Annotations/ExecutiveOrder-Annotated.md#section-2a)}
+{[Section 2a] (ExecutiveOrder-Annotated.md#section-2a)}
 [508 compliance, UELMA] 
 
 ### Section 3.2.4 Reusability 
 
-{[Section 3a] (Annotations/ExecutiveOrder-Annotated.md#section-3a)}
+{[Section 3a] (ExecutiveOrder-Annotated.md#section-3a)}
 
 ### Section 3.2.5 Documentation
 
@@ -105,7 +105,7 @@ Open Data Publishing Priority
 ## Section 4.1 Scope
 
 [Applies to non-public records] 
-{[Section 3] (Annotations/ExecutiveOrder-Annotated.md#section-3)}
+{[Section 3] (ExecutiveOrder-Annotated.md#section-3)}
 
 ## Section 4.2 Guidance on management of protected data
 
@@ -118,7 +118,7 @@ Open Data Publishing Priority
 [Rules requiring sharing protected data]
 [Rules identifying parties authorized to access protected data] 
 [Grant of consent to share protected data]
-{[Section 3a] (Annotations/ExecutiveOrder-Annotated.md#section-3a)} 
+{[Section 3a] (ExecutiveOrder-Annotated.md#section-3a)} 
 
 # Section 5 Definitions
 
@@ -130,7 +130,7 @@ Open Data Publishing Priority
 
 ## Section 5.3 Disclosure
 
-{[Section 3b] (Annotations/ExecutiveOrder-Annotated.md#section-3b)} , {[Section 2b] (Annotations/ExecutiveOrder-Annotated.md#section-2b)}}
+{[Section 3b] (ExecutiveOrder-Annotated.md#section-3b)} , {[Section 2b] (ExecutiveOrder-Annotated.md#section-2b)}}
 
 ## Section 5.4 Public Records 
 
