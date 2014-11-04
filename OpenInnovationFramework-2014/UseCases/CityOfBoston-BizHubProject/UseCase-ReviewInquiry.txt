@@ -1,0 +1,27 @@
+Use Case: Review Inquiry
+
+1. Who are the people:
+
+What are their roles?
+
+[Registered Users] on the BBH portal.
+
+2. Actions or Interactions
+
+What are the people doing?
+
+User enters "My Business Hub" 
+Review of personal inquiries that have been made to the BBH team.
+
+Information displayed: Inquiry Number, Contact Name, Subject, Status, Priority, Date/Time Opened and the	Inquiry Owner Alias
+
+User clicks on the Inquiry Number, to view additional Information on their Inquiry. Neighborhood, Sector, Business Name, and the field in that Assistance is needed.
+
+
+What are the Business, Legal and/or Technical aspects of what the people are doing?? 
+
+* Business: Business management of status of all inquiries made to the BBH.
+* Legal: 
+* Technical: Query to the inquiry database of the user's inquiries. 
+
+ 

@@ -1,0 +1,47 @@
+Use Case: Login to "My Profile" 
+
+1. Who are the people:
+
+What are their roles?
+
+[Registered Users] on the BBH portal 
+ 
+
+2. Actions or Interactions
+
+What are the people doing?
+
+* Alt A with Active Session
+
+User goes to businesshub.boston.gov
+
+User clicks My Business Hub in the top menu
+
+User lands on "All Inquiries"
+
+On the upper right User clicks on My Profile
+
+User lands on "My Profile" page (URL file name "PortalUserMyProfilePage")
+
+* Alt B User  
+
+User goes to businesshub.boston.gov
+
+User clicks My Business Hub in the top menu
+
+Use lands on "Login to Site" page
+
+User Logs in with Username and Password 
+
+User lands on "All Inquiries"
+
+On the upper right User clicks on My Profile
+
+3. What are the Business, Legal and/or Technical aspects of what the people are doing?? 
+
+* Business: 
+* Legal: 
+* Technical: 
+ 
+
+

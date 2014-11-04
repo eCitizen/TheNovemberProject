@@ -1,0 +1,24 @@
+Use Case: Boston Business Hub Account Creation
+
+1. Who are the people:
+
+What are their roles?
+
+User: 
+ - A person who owns or is starting a business in Boston.
+
+System:
+ - Salesforce BBH Application
+
+2. Actions or Interactions
+
+What are the people doing?
+
+- 
+
+
+What are the Business, Legal and/or Technical aspects of what the people are doing?
+
+Business: Registering With Boston Business Hub
+Legal: 
+Technical: Account Creation (New Object in the Directory Database)

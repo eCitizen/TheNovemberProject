@@ -1,0 +1,86 @@
+--My Profile Page---
+
+* Data Element:
+Username	
+
+Example data: caitlin@civics.com
+
+* Data Element:
+Time Zone	
+
+Example data: (GMT-05:00) Eastern Standard Time (America/New_York)
+
+* Data Element:
+Locale	English (United States)
+
+Example Data: Language English
+
+* Data Element:
+Nickname	
+
+Example Data: cstilinr	 	 
+
+* Data Element: 
+First Name
+
+Example Data:  Caitlin
+
+* Data Element: 
+Last Name
+
+Example Data:  Stilin-Rooney	
+
+* Data Element:
+E-mail	
+
+Example Data: caitlin@civics.com
+
+* Data Element:	 	
+Phone	
+
+Example Data: 
+347 399 2424
+
+ 	 		 	
+--------
+When editing My Profile a user can update the following Data Element fields for their own account.
+
+Important: Please note "* = Required User Information" for each data element like this:  
+====
+Data Element: Country
+
+Required Information
+
+Example: Russia
+====
+
+
+User Information
+* Username	
+
+* Time Zone	(Drop Down Menu to choose from all possible Time Zones) 
+
+* Locale (Drop Down Menu to choose from all possible Countries ) 
+
+* Language	(Drop Down Menu to choose from all possibile Languages) 
+
+
+*Nickname	
+
+ 	 
+Contact Information
+First Name		*E-mail	
+
+*Last Name	
+
+Phone	
+Title		Extension	
+ 	 	Fax	
+ 	 	Mobile	
+Address Information
+Street		 	 
+City		 	 
+State/Province		 	 
+Zip/Postal Code		 	 
+Country		 	 
+ 	 

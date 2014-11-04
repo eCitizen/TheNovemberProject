@@ -1,0 +1,53 @@
+Intentional Design
+
+Role: 
+
+- Federated Cities City of Boston 
+
+CIO 
+
+City Depts
+
+Corporation Counsel 
+
+- Private Sector
+
+Thought leaders 
+
+Businesses 
+
+Researchers
+
+Civic Hackers 
+
+Citizens 
+
+Press 
+
+Generic name: Social Groups
+
+Business: Friends and Family
+legal : unincorporated association
+tech: self selected user group 
+
+Collaborators:
+
+Chris and Nigel
+Eve Maler 
+Thomas Harjono
+Atlantic Associates
+Legal Hackers
+UMKC Law School
+KCMO-Ashley Hand
+KCMO-Rick Usher
+Free Law Founders
+ 
+Bill Oates
+Linda Hammel
+Claudia Boldman
+Mariko
+Boston, Cambridge, Summerville
+Code for Boston
+
+
+ 

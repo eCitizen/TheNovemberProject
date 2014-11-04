@@ -1,0 +1,26 @@
+BBH Protected Data Sharing Scenario 
+0. (Add "scenario name" and sentence or two description of the simplest statement of overall scenario that Chris suggested we follow)
+
+1. Identity:
+1.1. Use Case: Account Creation
+1.2. Use Case: Make Inquiry as Registered User
+1.3. Use Case: Review Current Inquiries on System
+1.4. Use Case: Manage Profile - Update Nickname
+
+2. Access Mgmt:
+2.1 Use Case: Betsy Manages Case Object
+2.2 Etc...
+
+3. Data Classification:
+3.1 Dataset: 
+
+X. FUTURE STATE VISION:
+
+0. Scenario: IAuth Design Pattern
+
+1. Use Case: IAuth Permissions Management
+(Note: There are AT LEAST three roles now: User/Biz-Acct-Holder; 3rd Pty App Provider and System Provider/City of Boston
+
+Biz: Add/Revoke/Modify Service Relationships/Info)
+Legal: Add/Revoke/Modify 3rd Party Contracts/Terms)
+Tech: Add/Revoke/Modify App Authorizations/Access)

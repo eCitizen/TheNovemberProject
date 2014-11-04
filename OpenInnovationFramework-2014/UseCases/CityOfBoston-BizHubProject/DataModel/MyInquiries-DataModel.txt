@@ -1,0 +1,128 @@
+--- My Inquiries ---
+
+
+User clicks "My Business Hub" to find their list of Inquiries made. 
+
+Where to find this Data on BBH (URL or User Path): https://bostonbusinesshub.secure.force.com/portal/500/o
+
+
+* Data Element:
+Inquiry Number	
+
+Example data: 00008275
+
+* Data Element:
+Contact Name	
+
+Example data: Stilin-Rooney, Caitlin
+
+* Data Element:
+Subject
+
+Example Data: XXX
+
+* Data Element: 
+Date/Time Opened
+
+Example Data: 11/2/2014 5:01 AM	
+
+* Data Element: 
+Status
+
+Example Data:
+Requested
+
+* Data Element:
+Neighborhood
+
+Example Data: 
+Boston Central
+
+* Data Element:
+Sector 
+
+Example Data: Retail
+
+* Data Element: Owner Name
+
+Example Data: Lynch, John
+
+___________________________________ 	
+[Note: when the user sees this page it includes all or most of the data above and ALSO includes the following:)
+
+Where to find this Data on BBH (URL or User Path): 
+https://bostonbusinesshub.secure.force.com/portal/500C000000fnESW
+
+
+User is Required to include the following Inquiry Information:
+
+* Data Element: Neighborhood
+
+Example Data Choices From Drop Down Menu:
+
+Boston Central
+Boston Central - Chinatown
+Boston Central - Downtown Crossing
+Boston Central - Government Center
+Boston Central - North End
+Boston Central - West End
+
+* Data Element: Sector
+
+Example Data Choices From Drop Down Menu:
+
+Restaurant
+Retail
+
+[Note: THERE IS NO DROP DOWN MENU TO ASSIST]
+
+* Data Element: Assistance Needed
+
+Example Data Choices From Drop Down Menu:
+
+Business Planning 
+Construction and Remodeling
+Data and Reporting
+Disaster & Emergency Response
+Financing
+Hiring and Personnel
+Legal
+Market Research
+Marketing and Promotion
+Permitting and Licensing 
+Press Request 
+Real Estate and Finding Space
+Site Feedback
+Other
+________________________
+
+More Inquiry Details  
+
+User finds Inquiry Details by clicking on their Inquiry Number.
+
+Where to find this Data on BBH (URL or User Path):  https://bostonbusinesshub.secure.force.com/portal/500C000000fnESW
+
+* Data Element: 
+Business Name
+
+Example Data: CIVICS.com
+
+* Data Element:
+Additional Information
+
+Example Data: My business XXX
+
+* Data Element:
+Subject					
+
+Example Data: XXX
+
+* Data Element:
+Assistance Needed
+
+Example Data: Permitting and Licensing
+
+* Data Element:
+Description				
+
+Example Data: XXX

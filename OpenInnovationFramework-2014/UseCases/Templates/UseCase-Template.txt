@@ -1,0 +1,15 @@
+Use Case: Review Current Inquiries on System
+
+(Short Name and Unique Identifier - should be a URL)
+
+1. Who are the people:
+
+(Actors)(Roles) 
+
+2. What are they doing: 
+
+(Interaction) (Action) (Transaction)
+
+3. What do we call that? 
+
+(Business, Legal and/or Technical View/Characterization/ on What is Happening)

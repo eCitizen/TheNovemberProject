@@ -1,0 +1,13 @@
+ 
+
+Procedures:
+
+* Each department must classify data for which it is responsible as Public Records or Exempt Records.
+
+* Each Department must identify and at least minimally document datasets for which the Department is responsible.  Documentation must be entered into the City of Boston Data Documentation Registry and must, at minimum, uniquely identify the dataset, the location of the data and  classify data as Public Records or Exempt Records.  
+
+* Each Department must propose a plan to the CIO, including a timeline and sequence of steps, indicating the plan for achieving classification of data for which the department is responsible. 
+
+About Data Classification:
+
+As a key strategic and valuable asset of the City of Boston, basic documentation and management is necessary for both Open Data and Protected Data.  The most important documentation factor is whether data is classified as Public Record or Exempt Record.  Classification of data as Public Records or as Exempt Records under Massachusetts Public Records law and regulation determines what rules and processes apply to publishing or otherwise sharing the data.  Data classified with the status Public Record may be freely published and shared subject to the City of Boston Open Data Policy.  Data classified with the status Exempt Record is subject to the City of Boston Protected Data Policy and may be subject to additional security and legal requirements, constraints or other stipulations.

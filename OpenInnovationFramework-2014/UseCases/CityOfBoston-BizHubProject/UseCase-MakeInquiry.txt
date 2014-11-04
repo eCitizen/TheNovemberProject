@@ -1,0 +1,55 @@
+Use Case: Boston Business Hub Make Inquiry Form 
+
+1. Who are the people:
+
+What are their roles?
+
+User: 
+ -Registered Users on the BBH portal.
+
+System:
+ - Salesforce BBH Application
+
+2. Actions or Interactions
+
+What are the people doing?
+
+-Populating the form with business information including the "Neighborhood & Sector"** they work in, their "Business Name", a "Subject" and the type of "Assistance needed".
+ 
+-Submitting their inquiry or Submitting inquiry with an Attachment*** 
+
+-Date/Time Status, Business 
+  
+What are the Business, Legal and/or Technical aspects of what the people are doing?
+
+Business: Submitting Inquiry Form With Boston Business Hub
+Legal: The City of Boston commits to protecting the data submitted in Inquiry Form by User under the Privacy Policy and Disclaimer.
+Technical: Submitting Inquiry Form Creates an Open Inquiry 
+
+
+______________________
+
+**(Unclear whether "Neighborhood" box is the Neighborhood you live in or where your business operates. Unclear what "Sector" box means as there no place on the page that describes the sector being business sector and there is no drop down menu as reference) 
+---Viewer option next to each data field, however the suggestion to insert *** as a wilcard next to other characters is unclear) 
+- Inquiry number is assigned and sent to User email + reply that User will be contacted with 2 businesses days by a DND representative.
+number and email. 
+
+*** When you try to add an attachment you cannot do it and it shows that "Inquiry is successfully saved.
+The inquiry has been successfully saved and assigned to the appropriate user or queue according to the active assignment rule. You no longer have access to view or edit this inquiry." 
+
+
+_______________________
+BBH Privacy and Security Policies
+
+The City of Boston is committed to protecting the privacy of all visitors and providing a secure web infrastructure to conduct business with the City.
+ 
+Although we collect minimal and basic information about most visitors in order to provide the most efficient and effective e-services, we do not sell or exchange our data with third parties for commercial or marketing purposes.
+ 
+The City has industry standard security systems and practices in place to ensure secure transmission of financial transactions and data integrity.
+ 
+For more information, view our comprehensive privacy and security statement.
+ 
+Thank you for visiting us and reviewing our Privacy and Security statement!
+http://businesshub.boston.gov/cms/privacypolicy
+
+The comprehensive privacy policy: http://www.cityofboston.gov/copyright/privacypolicy.asp

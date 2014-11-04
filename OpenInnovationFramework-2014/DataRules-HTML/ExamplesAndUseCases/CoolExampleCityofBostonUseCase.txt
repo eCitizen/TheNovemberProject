@@ -1,0 +1,13 @@
+Cool Example Use Case With City of Boston 
+
+ http://www.cityofboston.gov/calendar/ (scheduling)
+
+ http://www.cityofboston.gov/contact/?id=197 (app feedback)
+
+ http://www.cityofboston.gov/alerts/ (notices and alerts become "apps mgmt dashboard" so nicely)
+
+ http://mayors24.boston.gov/Ef3/General.jsp?form=SSP_GEN01_GenericeFormforOtherServiceRequestTypes&page=SSP_Page_EmailEnterNoAnon (make a request) (Enter Contact Information > Enter Location > Enter Request > Review & Submit > Attach Photos & Files > Print & Track)
+
+ http://mayors24.boston.gov/Ef3/General.jsp?form=SSP_TrackCase&page=EntrancePage (issue tracking!) 
+ 
+ 

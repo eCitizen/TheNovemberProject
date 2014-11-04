@@ -1,0 +1,27 @@
+Use Case: Manage Profile 
+
+1. Who are the people:
+
+What are their roles?
+
+[Registered Users] on the BBH portal.
+
+
+2. Actions or Interactions
+
+What are the people doing?
+
+User has verified email address and changed their password 
+User clicks the data field titled "Nickname" and is able to change from the Account Nickname given to a personalized one
+User cannot change their Nickname once it has been created
+
+https://bostonbusinesshub.secure.force.com/portal/_ui/core/portal/PortalUserMyProfilePage
+
+What are the Business, Legal and/or Technical aspects of what the people are doing?
+
+* Business: Identity Management of BBH Account
+* Legal: 
+* Technical: Query to change Nickname
+ 
+
+

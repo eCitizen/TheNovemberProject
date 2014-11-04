@@ -1,0 +1,11 @@
+City of Boston Existing Identity Registry Functions: 
+
+ http://www.cityofboston.gov/registry/
+
+ http://www.cityofboston.gov/cityclerk/BusinessRegistration/
+
+ http://www.cityofboston.gov/images_documents/New%20Business%20Certificate%209_2013_tcm3-44970.pdf
+
+ http://www.cityofboston.gov/cityclerk/dbasearch/Default.aspx?business_name=Google&order_by=business_name
+
+ http://www.cityofboston.gov/doit/apps/citizensconnect.asp

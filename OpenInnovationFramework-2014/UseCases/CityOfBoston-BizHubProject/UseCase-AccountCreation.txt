@@ -1,0 +1,49 @@
+Use Case: Boston Business Hub Account Creation
+
+1. Who are the people:
+
+What are their roles?
+
+User: 
+ - A person who owns or is starting a business in Boston.
+
+System:
+ - Salesforce BBH Application
+
+2. Actions or Interactions
+
+What are the people doing? 
+
+- Fill out name, email, phone + submit form
+- Go to Login Page
+- Open email from Neighborhood Development to see New Username & Password
+- Change & verify a new password 
+- (Optional) Click Username on Upper Right of Any Page and See Account Profile with 
+  > Option to change from a generic nickname and create a personalized one
+  > Option to create a inquiry, and
+  > Option to select all any inquiry, open, closed, recent, etc. that you may want to view
+
+
+
+What are the Business, Legal and/or Technical aspects of what the people are doing?
+
+* Business: Registering With Boston Business Hub
+* Legal: User agrees to create an account bound by the Legal Terms of the Boston Business Hub. Creation of contract between City of Boston and User (Privacy Policy and Disclaimer)
+* Technical: Account Creation New Object in the Directory Database
+
+
+________________________
+BBH Privacy and Security Policies
+
+The City of Boston is committed to protecting the privacy of all visitors and providing a secure web infrastructure to conduct business with the City.
+ 
+Although we collect minimal and basic information about most visitors in order to provide the most efficient and effective e-services, we do not sell or exchange our data with third parties for commercial or marketing purposes.
+ 
+The City has industry standard security systems and practices in place to ensure secure transmission of financial transactions and data integrity.
+ 
+For more information, view our comprehensive privacy and security statement.
+ 
+Thank you for visiting us and reviewing our Privacy and Security statement!
+http://businesshub.boston.gov/cms/privacypolicy
+
+The comprehensive privacy policy: http://www.cityofboston.gov/copyright/privacypolicy.asp

@@ -1,0 +1,37 @@
+My Wizard Results
+___________________
+
+Where to find this Data on BBH (URL or User Path): https://bostonbusinesshub.secure.force.com/portal/500/o
+
+
+* Data Element:
+View
+
+Example Data: My Results
+
+Option 1. User Clicks Go and is taken to their Results.  
+Option 2. User Selects Recently Modified or Recently Created on a drop down menu see their Wizard Results. 
+       If selecting the "Recently Viewed" option they must follow step 1.) 
+
+
+____________________
+Recent Wizard Results 
+
+* Data Element:
+Created Date	
+
+Example Data: 11/2/2014
+
+* Data Element: Resource List
+
+Example Data: http://businesshub.boston.gov/WizardSummaryPrin...
+
+____________________
+
+Use Case: 
+
+User must be logged in to their account. 
+User clicks on "My Business Hub"
+User clicks on top menu, "Wizard Results"
+User clicks on Recently Created to see their Recent Wizard Results and is taken to a Printer Friendly page 
+http://businesshub.boston.gov/WizardSummaryPrinterFriendly?intwID=a0SC000000Hh2LRMAZ&p=p
